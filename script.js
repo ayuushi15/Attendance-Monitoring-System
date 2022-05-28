@@ -45,7 +45,7 @@ async function start() {
     var semester = document.getElementById("semester").value;
     
     image = await faceapi.bufferToImage(file.files[0])
-    image.style.width = '40%' //resizing uploaded image
+    image.style.width = '75%' //resizing uploaded image
     image.classList.add('center') //centering uploaded image
     container.append(image)
     canvas = faceapi.createCanvasFromMedia(image) //creating canvas from image to draw boxes on faces that have been recognized
