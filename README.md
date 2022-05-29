@@ -31,4 +31,4 @@
   4. Wait for the Models to load and upload an image from the test_images directory to see the website in action!!!
 
 ## Contact
-  Email - ayushikhandelwal.cse24@jecrc.ac.in
+  Email - ayuushi.khandelwal@gmail.com
