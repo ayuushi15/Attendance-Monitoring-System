@@ -20,7 +20,7 @@
     <p> All these files already exist in the repository so you dont have to download them </p>
 
 ## Getting Started
-  <p>This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps. </p> 
+  <p>To get a local copy up and running follow these simple example steps. </p> 
   
   1. Clone the repo
    ```sh
