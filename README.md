@@ -30,5 +30,5 @@
   3. Navigate to index.html and run this file using the live server extension.(Install the live server extension from the extensions menu in VS Code)
   4. Wait for the Models to load and upload an image from the test_images directory to see the website in action!!!
 
-## Contact
+## Contact me
   Email - ayuushi.khandelwal@gmail.com
